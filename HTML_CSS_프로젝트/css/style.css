@@ -1,0 +1,37 @@
+.nav {
+    display: flex;
+    position: sticky;
+    top: 0;
+    height: 80px;
+    padding: 40px;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+}
+
+.nav img {
+    height: 60px;
+}
+
+.nav-list {
+    list-style: none;
+    display: flex;
+}
+
+.nav-item {
+    margin: 0 15px;
+  }
+
+
+.banner {
+    display: flex;
+    background: url("../images/images/background.jpg");
+    height: 320px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: xx-large;
+    justify-content: center;
+    align-items: center;
+
+}
+
