@@ -1,7 +1,3 @@
-<img src="README.assets/image-20220904203509106.png" alt="image-20220904203509106" style="zoom:200%;" />
-
-![image-20220904203521632](README.assets/image-20220904203521632.png)
-
-
-
 # 미리보기 🔍
+
+![screencapture-file-C-Users-kj310-Desktop-project-HTML-CSS-index-html-2022-09-04-20_41_02](README.assets/screencapture-file-C-Users-kj310-Desktop-project-HTML-CSS-index-html-2022-09-04-20_41_02.png)
