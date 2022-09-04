@@ -1,0 +1,100 @@
+.nav {
+    display: flex;
+    position: sticky;
+    top: 0;
+    height: 80px;
+    padding: 40px;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+}
+
+.nav img {
+    height: 60px;
+}
+
+.nav-list {
+    list-style: none;
+    display: flex;
+    margin: 0px;
+}
+
+.nav-item {
+    margin: 0 15px;
+  }
+
+
+.banner {
+    display: flex;
+    background: url("../images/images/background.jpg");
+    height: 320px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: x-large;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+}
+
+.aside {
+    padding: 1rem;
+    width: 100%;
+
+}
+
+.movie-item {
+    margin: 0px;
+    padding: 0px;
+}
+
+.movie-list {
+    padding: 0px;
+}
+
+.movie {
+    display: flex;
+    padding: 24px;
+    background-color: antiquewhite;
+    flex-direction: column;
+    width: 100%;
+}
+
+.movie img {
+    width: 300px;
+    border-radius: 1rem;
+}
+
+.rank-title {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.img-list {
+    display: flex;
+    width: 1000px;
+    justify-content: space-around;
+}
+
+.movie-name {
+    text-align: center;
+    font-size: large;
+    margin: 10px  auto;
+}
+
+.footer {
+    display: flex;
+    background-color: black;
+    height: 40px;
+    position: relative;
+    bottom: 0;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-text {
+    color: white;
+    margin: 0px;
+}
