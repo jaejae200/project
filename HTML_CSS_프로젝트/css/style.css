@@ -45,12 +45,12 @@
 
 }
 
-.movie-item {
+.aside-item {
     margin: 0px;
     padding: 0px;
 }
 
-.movie-list {
+.aside-list {
     padding: 0px;
 }
 
@@ -67,15 +67,16 @@
     border-radius: 1rem;
 }
 
-.rank-title {
+.title {
     text-align: center;
     margin-bottom: 10px;
 }
 
-.img-list {
+.movie-list {
     display: flex;
     width: 1000px;
     justify-content: space-around;
+    flex-wrap: wrap;
 }
 
 .movie-name {
